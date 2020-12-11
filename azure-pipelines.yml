@@ -32,5 +32,5 @@ steps:
     arguments: '--configuration $(buildConfiguration)'
 - task: PublishTestResults@2
   inputs:
-    testResultsFormat: 'JUnit'
-    testResultsFiles: '**/TEST-*.xml'
+    testResultsFormat: 'VSTest'
+    testResultsFiles: '**/*.trx'
