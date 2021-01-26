@@ -11,6 +11,11 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'publish'
+    publishWebProjects: true
+    arguments: '--no-restore'
 
 steps:
 - task: NuGetCommand@2
