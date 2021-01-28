@@ -36,4 +36,4 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 [![Build Status](https://dev.azure.com/hanumolu7152/Information%20technology/_apis/build/status/harish0404.pipelines-dotnet-core?branchName=main)](https://dev.azure.com/hanumolu7152/Information%20technology/_build/latest?definitionId=5&branchName=main)
 
-<td><img src="https://dev.azure.com/hanumolu7152/Information%20technology/_apis/build/status/harish0404.pipelines-dotnet-core?branchName=main"><td>
+<td><img src="https://dev.azure.com/hanumolu7152/Information%20technology/_apis/build/status/harish0404.pipelines-dotnet-core?branchName=main"></td>
